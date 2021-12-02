@@ -3,7 +3,7 @@
 <h1>DISCUZ</h1>
 </div>
 
-### Discuz is an application where in various users can create rooms, where they can discuss and talk regarding the desired topic. 
+### Discuz is an application where in various users can create rooms, where one can discuss and talk regarding any desired topic. 
 
 <hr>
 
