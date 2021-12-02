@@ -10,10 +10,10 @@
 ## Features:
 1. Users can login / register.
 2. Users can create rooms.
-3. Users can help others with their problems and errors and also find companions for learning things or creating projects with the help of this rooms. 
+3. Users can help others with their problems and errors and also find companions for learning things or creating projects with the help of rooms. 
 4. Users can search for topics like java, python, etc and join desired rooms.
 5. User can edit profile details.
-6. User can see recen activities.
+6. User can see recent activities.
 
 <hr>
 
@@ -26,7 +26,7 @@ git clone https://github.com/Marmik198/Discuz.git
 
 --> Move into the directory where we have the project files : 
 ```bash
-cd StudyBud
+cd Discuz
 ```
 #
 
