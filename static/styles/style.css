@@ -295,7 +295,7 @@ a {
 }
 
 .header__search svg {
-  fill: var(--color-gray);
+  fill: var(--color-dark);
   width: 2rem;
   height: 2rem;
   margin-left: 1rem;
@@ -306,7 +306,7 @@ a {
   background: transparent;
   border: none;
   outline: none;
-  color: var(--color-light);
+  color: var(--color-dark);
 }
 
 @media screen and (max-width: 800px) {
@@ -697,6 +697,7 @@ a {
   border-radius: 5rem;
   font-weight: 500;
   font-size: 1.3rem;
+  color: white;
 }
 
 .activities {
