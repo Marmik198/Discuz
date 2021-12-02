@@ -1,6 +1,6 @@
 <div align="center">
 <img src="https://user-images.githubusercontent.com/72034531/144435614-63a844ac-29d0-4c35-b285-cc5e0e55bd48.jpg">
-<h1>Discuz</h1>
+<h1>DISCUZ</h1>
 </div>
 
 ### Discuz is an application where in various users can create rooms, where they can discuss and talk regarding the desired topic. 
